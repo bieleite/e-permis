@@ -60,6 +60,10 @@
 .paragraph {
   text-align:left;
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .table_cell {
 }
 .connector {
