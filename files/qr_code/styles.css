@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:594px;
+  width:636px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,15 +12,25 @@
   position:absolute;
   z-index:0;
 }
-#u58_img {
+#u62_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:300px;
   height:538px;
+  background:inherit;
+  background-color:rgba(0, 51, 102, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
-#u58 {
+#u62 {
   border-width:0px;
   position:absolute;
   left:294px;
@@ -28,7 +38,7 @@
   width:300px;
   height:538px;
 }
-#u58_text {
+#u62_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,7 +47,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u59_img {
+#u63_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -45,7 +55,7 @@
   width:147px;
   height:56px;
 }
-#u59 {
+#u63 {
   border-width:0px;
   position:absolute;
   left:367px;
@@ -58,7 +68,7 @@
   color:#CCCCCC;
   text-align:center;
 }
-#u59_text {
+#u63_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -69,7 +79,7 @@
   -webkit-text-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
   -moz-text-shadow:5px 5px 5px rgba(0, 0, 0, 0.349019607843137);
 }
-#u60_img {
+#u64_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -77,7 +87,7 @@
   width:300px;
   height:300px;
 }
-#u60 {
+#u64 {
   border-width:0px;
   position:absolute;
   left:294px;
@@ -85,7 +95,7 @@
   width:300px;
   height:300px;
 }
-#u60_text {
+#u64_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -94,7 +104,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u61_div {
+#u65_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -109,7 +119,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u61 {
+#u65 {
   border-width:0px;
   position:absolute;
   left:514px;
@@ -117,11 +127,36 @@
   width:70px;
   height:20px;
 }
-#u61_text {
+#u65_text {
   border-width:0px;
   position:absolute;
   left:2px;
   top:2px;
   width:66px;
+  word-wrap:break-word;
+}
+#u66_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:410px;
+  height:610px;
+}
+#u66 {
+  border-width:0px;
+  position:absolute;
+  left:226px;
+  top:58px;
+  width:410px;
+  height:610px;
+}
+#u66_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
